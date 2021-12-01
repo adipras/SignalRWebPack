@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zJgnqafryKzxA4JCTrtzRiFZbVj40ts2PQjMuf1AtDEIHWC4ZTBQT5I9KLjE5m36GN1pqMr1Kyjrh2mDKlrEJQ==",
+  "success": true,
+  "projectFilePath": "/Users/bsi-arul/SignalRWebPack/SignalRWebPack.csproj",
+  "expectedPackageFiles": [
+    "/Users/bsi-arul/.nuget/packages/microsoft.typescript.msbuild/3.9.2/microsoft.typescript.msbuild.3.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}
